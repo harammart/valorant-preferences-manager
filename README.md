@@ -1,5 +1,13 @@
 # valorant-preferences-manager
 
+## 使い方(ガチ)
+```
+git clone https://github.com/harammart/valorant-preferences-manager.git
+cd valorant-preferences-manager
+pip install -r requirements.txt
+python main.py
+```
+
 ## 大体の使い方
 ```
 1. 設定をバックアップしたいアカウントにRiot Clientでログインする
