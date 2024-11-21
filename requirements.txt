@@ -1,0 +1,4 @@
+pydantic
+requests
+urllib3
+rich
